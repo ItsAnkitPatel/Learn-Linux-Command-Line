@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/repo-size/itsankitpatel/Learn-Linux-Command-Line" >
+<img src="https://img.shields.io/github/repo-size/its-ankitpatel/Learn-Linux-Command-Line" >
 <h1><img src="Asset/linux-computer.gif" alt="gif of penguin with laptop" height="50">  Learn-Linux-Command-Line </h1>
 As a developer we all need to know linux at some point in our career life.
 And since I am a fresher in programming I thought why not give it a try and learn it for better understanding so that I can incorporate those learning in my projects and many more.
